@@ -1,0 +1,49 @@
+.article {
+    background-color: #f84;
+    box-shadow: 10px 10px 5px #bbf;
+    border-radius: 10px;
+    padding: 20px;
+    margin: 50px;
+}
+
+.article h2 {
+    margin-top: 0;
+    margin-bottom: 30px;
+}
+
+body {
+    background-color: #ff8;
+    display: flex;
+}
+
+h1 {
+    text-align: center;
+}
+
+#main {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+    width: 100%;
+}
+
+section {
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+}
+
+nav {
+    position: fixed;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+nav a {
+    padding: 10px;
+    border-style: solid;
+    border-color: black;
+    margin: 2px;
+}

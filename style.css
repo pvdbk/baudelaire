@@ -9,6 +9,13 @@
 .article h2 {
     margin-top: 0;
     margin-bottom: 30px;
+    background-color: #80f;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 body {
